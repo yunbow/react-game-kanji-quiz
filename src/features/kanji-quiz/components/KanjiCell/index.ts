@@ -1,0 +1,1 @@
+export { KanjiCell } from './KanjiCell';

@@ -1,0 +1,11 @@
+.messageBox {
+  background-color: var(--color-card);
+  padding: 15px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--color-card-foreground);
+}

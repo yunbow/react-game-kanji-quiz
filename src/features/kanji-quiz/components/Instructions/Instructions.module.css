@@ -1,0 +1,18 @@
+.instructions {
+  background-color: var(--color-card);
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
+.instructions h2 {
+  color: var(--color-card-foreground);
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.instructions p {
+  margin-bottom: 10px;
+  color: var(--color-card-foreground);
+}

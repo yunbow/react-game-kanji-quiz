@@ -1,0 +1,1 @@
+export { KanjiQuizApp } from './KanjiQuizApp';
